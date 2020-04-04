@@ -75,7 +75,7 @@ h2 {
 
 .articles {
 	background-color: #f4f4f4;
-     margin-bottom: 10px;
+     margin-bottom: 8px;
 
 }
 
@@ -101,7 +101,16 @@ section {
 
 }
 /*-------PICTURE SECTION----------*/
+.gallery {
+    text-align: center;
+}
 
+.box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-left: 65%;
+}
 
 /*-------FOOTER----------*/
 
